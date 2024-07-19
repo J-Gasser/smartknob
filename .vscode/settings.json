@@ -11,6 +11,8 @@
     "editor.formatOnSaveMode": "file",
     "files.associations": {
         "cstddef": "cpp",
-        "limits": "cpp"
+        "limits": "cpp",
+        "*.tcc": "cpp",
+        "cmath": "cpp"
     },
 }
